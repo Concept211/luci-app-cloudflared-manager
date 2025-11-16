@@ -16,7 +16,8 @@ A web interface for managing Cloudflare Tunnel routes on OpenWrt routers.
 
 ## Screenshots
 
-![Cloudflare Tunnel Manager](screenshot.png)
+![Cloudflare Tunnel Manager - Bootstrap Theme](CTM_Bootstrap.png)
+![Cloudflare Tunnel Manager - Argon Theme](CTM_Argon.png)
 
 ## Prerequisites
 
@@ -65,7 +66,7 @@ Download the latest release and install:
 
 ```bash
 cd /tmp
-wget https://github.com/yourusername/luci-app-cloudflared-manager/releases/download/v1.2.0/luci-app-cloudflared-manager_1.2.0_all.ipk
+wget https://github.com/Concept211/luci-app-cloudflared-manager/releases/download/v1.2.0/luci-app-cloudflared-manager_1.2.0_all.ipk
 opkg install luci-app-cloudflared-manager_1.2.0_all.ipk
 ```
 
